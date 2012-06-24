@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">HelloWorldAndroid</string>
+    <string name="edit_message">Enter your message here</string>
+    <string name="button_send">Send!</string>    
+    
+
+</resources>
